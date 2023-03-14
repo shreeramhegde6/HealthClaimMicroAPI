@@ -1,0 +1,100 @@
+{
+  "Routes": [
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Login/login-user",
+      "DownstreamScheme": "https",
+      "ServiceName": "memberService",
+      "UpstreamPathTemplate": "/api/gateway/healthclaim/login",
+      "UpstreamHttpMethod": [ "Post" ]
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Login/register-user",
+      "DownstreamScheme": "https",
+      "ServiceName": "memberService",
+      "UpstreamPathTemplate": "/api/gateway/healthclaim/register",
+      "UpstreamHttpMethod": [ "Post" ]
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Member/add-member",
+      "DownstreamScheme": "https",
+      "ServiceName": "memberService",
+      "UpstreamPathTemplate": "/api/gateway/healthclaim/addmember",
+      "UpstreamHttpMethod": [ "Post" ]
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Member/GetAllMember",
+      "DownstreamScheme": "https",
+      "ServiceName": "memberService",
+      "UpstreamPathTemplate": "/api/gateway/healthclaim/getallmember",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Member/GetAllPhysician",
+      "DownstreamScheme": "https",
+      "ServiceName": "memberService",
+      "UpstreamPathTemplate": "/api/gateway/healthclaim/getallphysician",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Member/SearchMember",
+      "DownstreamScheme": "https",
+      "ServiceName": "memberService",
+      "UpstreamPathTemplate": "/api/gateway/healthclaim/searchmember",
+      "UpstreamHttpMethod": [ "Post" ]
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Member/GetAllMemberById",
+      "DownstreamScheme": "https",
+      "ServiceName": "memberService",
+      "UpstreamPathTemplate": "/api/gateway/healthclaim/getallmemberbyId",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Member/GetMemberId",
+      "DownstreamScheme": "https",
+      "ServiceName": "memberService",
+      "UpstreamPathTemplate": "/api/gateway/healthclaim/getmemberId",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Member/GetMemberDetailByMemberId",
+      "DownstreamScheme": "https",
+      "ServiceName": "memberService",
+      "UpstreamPathTemplate": "/api/gateway/healthclaim/getmemberdetailbymemberId",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Claim/add-claim",
+      "DownstreamScheme": "https",
+      "ServiceName": "claimService",
+      "UpstreamPathTemplate": "/api/gateway/healthclaim/addclaim",
+      "UpstreamHttpMethod": [ "Post" ]
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Claim/GetAllClaimType",
+      "DownstreamScheme": "https",
+      "ServiceName": "claimService",
+      "UpstreamPathTemplate": "/api/gateway/healthclaim/getallclaimtype",
+      "UpstreamHttpMethod": [ "Get" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    // "BaseUrl": "http://localhost:44363"
+    "ServiceDiscoveryProvider": {
+      "Host": "gateway20221108104344.azurewebsites.net",
+      "Port": "443",
+      "Type": "Consul"
+    }
+  }
+}
