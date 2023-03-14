@@ -1,0 +1,39 @@
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Dot-Net-Sep-2022-Conz\Microservice\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Dot-Net-Sep-2022-Conz\Microservice\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Dot-Net-Sep-2022-Conz\Microservice\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Dot-Net-Sep-2022-Conz\Microservice\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Dot-Net-Sep-2022-Conz\Microservice\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Dot-Net-Sep-2022-Conz\Microservice\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Dot-Net-Sep-2022-Conz\Microservice\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Dot-Net-Sep-2022-Conz\Microservice\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Dot-Net-Sep-2022-Conz\Microservice\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Dot-Net-Sep-2022-Conz\Microservice\Common\obj\Debug\netcoreapp3.1\Common.pdb
+D:\NewCaseStudy\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+D:\NewCaseStudy\Common\bin\Debug\netcoreapp3.1\Common.dll
+D:\NewCaseStudy\Common\bin\Debug\netcoreapp3.1\Common.pdb
+D:\NewCaseStudy\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewCaseStudy\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\NewCaseStudy\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\NewCaseStudy\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\NewCaseStudy\Common\obj\Debug\netcoreapp3.1\Common.dll
+D:\NewCaseStudy\Common\obj\Debug\netcoreapp3.1\Common.pdb
+D:\NewCaseStudy\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\HealthcareProject\HealthcareWebAPI\HealthClaimMicroservice\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+D:\HealthcareProject\HealthcareWebAPI\HealthClaimMicroservice\Common\bin\Debug\netcoreapp3.1\Common.dll
+D:\HealthcareProject\HealthcareWebAPI\HealthClaimMicroservice\Common\bin\Debug\netcoreapp3.1\Common.pdb
+D:\HealthcareProject\HealthcareWebAPI\HealthClaimMicroservice\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\HealthcareProject\HealthcareWebAPI\HealthClaimMicroservice\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\HealthcareProject\HealthcareWebAPI\HealthClaimMicroservice\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\HealthcareProject\HealthcareWebAPI\HealthClaimMicroservice\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\HealthcareProject\HealthcareWebAPI\HealthClaimMicroservice\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\HealthcareProject\HealthcareWebAPI\HealthClaimMicroservice\Common\obj\Debug\netcoreapp3.1\Common.dll
+D:\HealthcareProject\HealthcareWebAPI\HealthClaimMicroservice\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\2224727\OneDrive - Cognizant\Desktop\Shreeram\original\HealthcareWebAPI\HealthClaimMicroservice\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\2224727\OneDrive - Cognizant\Desktop\Shreeram\original\HealthcareWebAPI\HealthClaimMicroservice\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\2224727\OneDrive - Cognizant\Desktop\Shreeram\original\HealthcareWebAPI\HealthClaimMicroservice\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\2224727\OneDrive - Cognizant\Desktop\Shreeram\original\HealthcareWebAPI\HealthClaimMicroservice\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\2224727\OneDrive - Cognizant\Desktop\Shreeram\original\HealthcareWebAPI\HealthClaimMicroservice\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\2224727\OneDrive - Cognizant\Desktop\Shreeram\original\HealthcareWebAPI\HealthClaimMicroservice\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\2224727\OneDrive - Cognizant\Desktop\Shreeram\original\HealthcareWebAPI\HealthClaimMicroservice\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\2224727\OneDrive - Cognizant\Desktop\Shreeram\original\HealthcareWebAPI\HealthClaimMicroservice\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\2224727\OneDrive - Cognizant\Desktop\Shreeram\original\HealthcareWebAPI\HealthClaimMicroservice\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
